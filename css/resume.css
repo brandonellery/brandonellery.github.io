@@ -150,13 +150,8 @@ section.resume-section {
 
 }
 
-section.resume-section .img {
-  margin:auto;
-  width:50%;
-
-}
-
 section.resume-section .resume-item .resume-date  {
+  min-width: none;
 }
 
 @media (min-width: 768px) {
